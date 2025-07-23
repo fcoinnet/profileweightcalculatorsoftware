@@ -13,6 +13,19 @@ A lightweight and efficient web-based application that helps you calculate the w
 - No installation required – runs directly in your browser
 - Fully responsive on mobile and desktop
 
+## 🖼️ Gallery
+
+### 💻 Desktop View
+<img src="images/desktop-1.png" width="400"/>
+<img src="images/desktop-2.png" width="400"/>
+
+### 📱 Mobile View
+<img src="images/mobile-1.png" width="200"/>
+<img src="images/mobile-2.png" width="200"/>
+<img src="images/mobile-3.png" width="200"/>
+
+> All screenshots were taken from real devices using the web-based version.
+
 ## ❗ License & Source Code
 
 This software is **not open-source**. Redistribution, copying, or modification of this service is not permitted without explicit permission.
