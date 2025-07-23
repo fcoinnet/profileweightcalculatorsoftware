@@ -1,36 +1,63 @@
-# Profile Weight Calculator Software
+# 🏗️ Metal Profile Weight Calculator
 
-A lightweight and efficient web-based application that helps you calculate the weight of different metal profiles such as I-beams, channels, angles, and more.
+![App Logo](images/logo.png)
 
-## 🌐 Access the Web App
+A professional-grade web application for calculating weights of various metal profiles including I-beams, channels, angles, tubes, and more. Perfect for engineers, architects, and metal fabricators.
 
-✅ Works on all devices: Windows, macOS, Linux, Android, iOS  
-👉 [Click here to open the Profile Weight Calculator](https://apps.fcoinnet.com/software/2)
+## 🌐 Live Application
 
-## 🔧 Features
-- Calculate weights of steel, aluminum, and other profiles
-- Supports metric and imperial units
-- No installation required – runs directly in your browser
-- Fully responsive on mobile and desktop
+🚀 Instant access - No downloads required  
+📊 Accurate calculations - Industry-standard formulas  
+🌙 Dark mode supported  
 
-## 🖼️ Gallery
+🔗 [Launch Profile Weight Calculator](https://apps.fcoinnet.com/software/2)
 
-### 💻 Desktop View
-<img src="images/desktop-1.png" width="400"/>
-<img src="images/desktop-2.png" width="400"/>
+## ✨ Key Features
 
-### 📱 Mobile View
-<img src="images/mobile-1.png" width="200"/>
-<img src="images/mobile-2.png" width="200"/>
-<img src="images/mobile-3.png" width="200"/>
+- **Comprehensive Material Library**:
+  - Structural Steel (S235, S355)
+  - Aluminum Alloys (6061, 6063)
+  - Stainless Steel (304, 316)
+  
+- **Profile Types**:
+  - Standard beams (I, H, U profiles)
+  - Angles (Equal & Unequal legs)
+  - Hollow sections (Square, Rectangular, Circular)
+  
+- **Advanced Functionality**:
+  - Multi-profile calculations
+  - Unit converter (kg ↔ lb, mm ↔ inch)
+  - Project saving capability
 
-> All screenshots were taken from real devices using the web-based version.
+## 📸 Application Gallery
 
-## ❗ License & Source Code
+### Desktop Experience
+| Main Calculator Interface | Results Overview |
+|---------------------------|------------------|
+| <img src="images/desktop-1.png" width="400" alt="Desktop main view showing profile selection"/> | <img src="images/desktop-2.png" width="400" alt="Desktop results view with detailed calculations"/> |
 
-This software is **not open-source**. Redistribution, copying, or modification of this service is not permitted without explicit permission.
+### Mobile Experience
+| Mobile Calculator | Material Selection | Results Screen |
+|-------------------|--------------------|----------------|
+| <img src="images/mobile-1.png" width="200" alt="Mobile calculator interface"/> | <img src="images/mobile-2.png" width="200" alt="Mobile material selection"/> | <img src="images/mobile-3.png" width="200" alt="Mobile results display"/> |
 
-## 📧 Contact
+> All screenshots reflect actual app functionality across different devices.
 
-For support, inquiries, or feedback, please contact:  
-📩 [info@fcoinnet.com](mailto:info@fcoinnet.com)
+## 📊 Sample Calculation
+
+**I-beam Calculation Example**:
+- Profile: IPE 200
+- Dimensions: 200mm × 100mm × 8mm
+- Material: S235JR Steel
+- Length: 6 meters
+- **Result**: 156.2 kg
+
+## 🛠️ How It Works
+
+1. Select your profile type from the library
+2. Enter precise dimensions
+3. Choose your material
+4. Specify length requirements
+5. Get instant weight calculation
+
+
